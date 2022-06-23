@@ -1,0 +1,4 @@
+TITLE,CONTENT,VOTES,AUTHOR,STATUS
+"Moleculer","A progressive micro service framework for Node JS","1000","1","true"
+"Moleculer DB","Official DB addons for Moleculer framework","500","1","true"
+"Moleculer Channels","Reliable messages for Moleculer services via external queue/channel/topic","100","1","true"
